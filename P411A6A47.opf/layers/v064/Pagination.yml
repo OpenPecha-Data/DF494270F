@@ -28,13 +28,13 @@ annotations:
     reference: ''
     span:
       start: 3393
-      end: 4682
+      end: 4685
     note_ref: 7ea03a94db0e4eba83547733da5ef765
   cd1a6b8ee8d24f5e9fce785927ada2b6:
     imgnum: 1881
     reference: ''
     span:
-      start: 4684
+      start: 4687
       end: 6032
     note_ref: 7ea03a94db0e4eba83547733da5ef765
   f7353df9735b42678608d38fdb35d43c:
@@ -49,56 +49,56 @@ annotations:
     reference: ''
     span:
       start: 7343
-      end: 8629
+      end: 8630
     note_ref: 7ea03a94db0e4eba83547733da5ef765
   ca85222acd70449997178d6ebd65555c:
     imgnum: 1884
     reference: ''
     span:
-      start: 8631
-      end: 9934
+      start: 8632
+      end: 9935
     note_ref: 2e8e959ca0d64afd85141b77197d354b
   08c39bc5d4054058bad7d100c2369851:
     imgnum: 1885
     reference: ''
     span:
-      start: 9936
-      end: 11273
+      start: 9937
+      end: 11274
     note_ref: 2e8e959ca0d64afd85141b77197d354b
   b8f8d275e16c4b66ab34f4e6c0bf76fb:
     imgnum: 1886
     reference: ''
     span:
-      start: 11275
-      end: 12583
+      start: 11276
+      end: 12584
     note_ref: 2e8e959ca0d64afd85141b77197d354b
   66e7d420c01c4d0fbb6c3df568b06027:
     imgnum: 1887
     reference: ''
     span:
-      start: 12585
-      end: 13904
+      start: 12586
+      end: 13905
     note_ref: 2e8e959ca0d64afd85141b77197d354b
   433fb4c2d40242aaa6f0fbc7c593ee0f:
     imgnum: 1888
     reference: ''
     span:
-      start: 13906
-      end: 15176
+      start: 13907
+      end: 15177
     note_ref: 2e8e959ca0d64afd85141b77197d354b
   7ea03a94db0e4eba83547733da5ef765:
     imgnum: 1889
     reference: ''
     span:
-      start: 15178
-      end: 16108
+      start: 15179
+      end: 16109
     note_ref: 2e8e959ca0d64afd85141b77197d354b
   2e8e959ca0d64afd85141b77197d354b:
     imgnum: 1890
     reference: ''
     span:
-      start: 16110
-      end: 16980
+      start: 16111
+      end: 16981
 local_ids:
   217247c6737c4c1e983ad6b66d041cd7: 200000
   83f84a6b880a419dbfa40490a1850d66: 200001
